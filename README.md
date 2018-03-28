@@ -2,10 +2,7 @@
 
 This project was generated with [Angular CLI], Bootstrap, Express, MongoDB Atlas.
 
-## Uso en base de Datos MongoDB
+## Autentication
 
-This project integrate with Express
-
-
-User of Autentication is: reynaldolayme
+Email: reynaldolayme@icloud.com
 Password: keepsimple
